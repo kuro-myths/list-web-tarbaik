@@ -1,0 +1,13 @@
+
+| AI             | Fokus Utama                       | Multimodal (Teks+Gambar) | Real-time Info       | Dokumen Panjang | Coding            | Writing/Presentasi | Target Utama         |
+| -------------- | --------------------------------- | ------------------------ | -------------------- | --------------- | ----------------- | ------------------ | -------------------- |
+| **ChatGPT**    | General AI (chat, coding, desain) | ✅                        | ❌ (*kecuali plugin*) | Cukup           | ✅                 | ✅                  | Umum / Developer     |
+| **Gemini**     | Chat + Search Google              | ✅                        | ✅                    | Cukup           | ✅                 | ✅                  | Umum / Riset         |
+| **Claude**     | Etis + Dokumen panjang            | ❌                        | ❌                    | ✅✅ (terbaik)    | Oke               | ✅                  | Riset / Bisnis       |
+| **DeepSeek**   | Riset & analisis data             | ❌                        | Terbatas             | Cukup           | ✅                 | ❌                  | Akademik / Developer |
+| **Perplexity** | AI Search (dengan sumber)         | ❌                        | ✅ (link & sumber)    | Oke             | Oke               | ❌                  | Riset / Pelajar      |
+| **Kimi AI**    | Baca & ringkas dokumen            | ❌                        | Terbatas             | ✅               | Oke               | ❌                  | Riset / Dokumen      |
+| **AI Z**       | All-in-one super app              | ✅                        | ❌                    | Cukup           | ✅                 | ✅                  | Umum                 |
+| **V (v0.app)** | Desain & UI                       | ✅                        | ❌                    | ❌               | Oke (UI/Frontend) | ❌                  | Designer / Developer |
+| **Grammarly**  | Grammar & style writing           | ❌                        | ❌                    | ❌               | ❌                 | ✅ (menulis)        | Penulis / Pelajar    |
+| **Gamma**      | Presentasi & visualisasi          | ❌                        | ❌                    | ❌               | ❌                 | ✅ (slide, laporan) | Bisnis / Edukasi     |
