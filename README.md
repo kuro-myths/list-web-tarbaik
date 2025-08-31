@@ -12,12 +12,12 @@
 <td>
 
 ✅ Desain README dengan animasi dinamis  
-✅ Tampilan keren dengan efek unik 
+✅ Tampilan keren dengan efek unik  
 
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" lebar="250" alt="Kekaisaran GIF">
+<img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="250" alt="Kekaisaran GIF">
 
 </td>
 </tr>
@@ -60,10 +60,18 @@
 
 ---
 
-## 🎧 Sekarang Dimaikan 
+## 🎧 Sekarang Dimainan 
 
 <p align="center">
 <a href="https://open.spotify.com/user/username">
 <img src="https://novatorem.vercel.app/api/spotify" alt=" Spotify Now Playing " lebar="450" />
 </a>
+</p>
+
+---
+
+## 🌀 Pratinjau Model 3D 
+
+<p align="center">
+  <img src="./payung legenda.gif" lebar="400" alt=" Preview 3D Model ">
 </p>
